@@ -1,0 +1,34 @@
+﻿IPython Noteook Presentation
+
+Links:
+
+IPython Notebook Introduction – homepage:
+	http://ipython.org/ipython-doc/stable/notebook/index.html
+	http://ipython.org/notebook.html
+
+IPython Official Repository (GitHub):
+	https://github.com/ipython/ipython
+
+IPython Docs with Notebook:
+	http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/Index.ipynb
+
+IPython Cell Magic Docs:
+	http://nbviewer.ipython.org/github/ipython/ipython/blob/1.x/examples/notebooks/Cell%20Magics.ipynb   (better/more examples)
+	http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Cell%20Magics.ipynb   (master branch – few examples )
+
+Rich Text/Graphics Outputs:
+	http://nbviewer.ipython.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Rich%20Output.ipynb
+
+Twitter Graphs:
+	http://nbviewer.ipython.org/gist/fperez/5681541/TwitterGraphs.ipynb (this is the webpage version)
+	https://gist.github.com/fperez/5681541  (github with dependencies)
+
+twython Module Dependency:
+	https://github.com/ryanmcgrath/twython
+	https://pypi.python.org/pypi/twython
+	https://twython.readthedocs.org/en/latest/
+
+Gallery of Interesting IPython Notebooks:
+	https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+
+

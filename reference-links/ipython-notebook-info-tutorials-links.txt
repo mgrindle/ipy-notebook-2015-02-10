@@ -1,0 +1,38 @@
+﻿IPython Notebooks– stuff
+
+good overview of early capabilities
+https://www.youtube.com/watch?v=26wgEsg9Mcc
+
+Notebook personal use and tips
+https://www.youtube.com/watch?v=t_TzRaK9kpU
+
+simple demo of features
+https://www.youtube.com/watch?v=H6dLGQw9yFQ
+
+in-depth ipython series
+https://www.youtube.com/watch?v=xe_ATRmw0KM
+https://www.youtube.com/watch?v=A8VbS-YX2Lo
+https://www.youtube.com/watch?v=4tJKZWWRs6s
+
+Using Ipython Notebook on Parallel Cluster:
+http://web.mit.edu/STAR/cluster/docs/latest/plugins/ipython.html
+http://www.astro.washington.edu/users/vanderplas/Astr599/notebooks/21_IPythonParallel
+
+
+http://astro.berkeley.edu/~berian/news-2012.shtml
+https://github.com/brandon-rhodes/astronomy-notebooks
+http://rhodesmill.org/brandon/2013/codemash-astronomy/
+
+http://ipython.org/notebook.html
+
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+
+http://www.reddit.com/r/IPython
+
+http://lwn.net/Articles/590557/
+
+http://www.arachnoid.com/IPython/index.html
+
+
+
+
