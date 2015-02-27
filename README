@@ -1,0 +1,21 @@
+Special notes to user.
+
+As I mentioned during my presentation, the IPython package was recently (Jan 2015)
+updated by the developers. The new version is v3.0.0, not to be confused with Python's
+version number. IPython was written to be used in Python v2.x and v3.x.
+
+All my notebooks in this repo were created using IPython v2.x
+
+The new version of IPython and Notebook uses a different file format. So notebooks
+created under IPython v3 can not be read by the old IPython v2.x You may run into
+this issue if you attempt to open a v2 notebook using IPython v3 notebook. I have
+not been able to check if v2 notebooks will run in IPython v3. 
+
+If you try to open someone else's and get an error when opening a notebook saying:
+
+'Error Loading Notebook - Bad Request'
+
+You are likely trying to open a version 3 notebook with IPython v2. 
+
+Have fun with IPython notebooks.
+Mike
